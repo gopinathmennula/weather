@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1644251503535
+Build-Jdk: 17.0.2
+Built-By: HP
+Bundle-Description: ONOS OSGi API bundle archetype
+Bundle-ManifestVersion: 2
+Bundle-Name: weather
+Bundle-SymbolicName: mvnrelated.weather
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: mvnrelated;version="1.0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-2.3.0.201405100607
